@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background-color: darkslategrey;
+    min-width: 350px;
+
+}
+
+header{
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial', sans-serif;
+}
+
+form {
+    display: inline;
+}
+
+button {
+    display: inline;
+}
+
+main {
+    width: 80%;
+    max-width: 1920px;
+    margin: 0 auto;
+    background-color: rgb(56, 94, 94);
+}
+
+#catalog {
+    margin: 30px auto;
+    width: fit-content;
+}
+
+img {
+    padding: 15px;
+    margin: 0 auto;
+}
